@@ -44,6 +44,7 @@ This tool is tremendously useful in modern electronics! And the best part is, th
 
 USAGE
 
+Currently, this project is used to highlight hardware concepts. 
 
 CHALLENGES
 
@@ -55,8 +56,6 @@ Originally, my plan was to simply connect the LED strips to the RPi 4 GPIO pins 
 Fried:
 Long story short, I ended up having to purchase a new RPi 4. In order to work on another project, I disassembled the contents on the breadboard. After reassembly, I had swapped the gate and drain wires. This proved to be catastrophic, as it meant that the 12V from the DC power source was going into the RPi. This quite literally killed my RPi and I had to get a new one.
 While it was an unfortunate event, I've learned to be more cautious when dealing with microcontrollers and power. 
-
-ROADMAP
 
 
 ATTACHED
