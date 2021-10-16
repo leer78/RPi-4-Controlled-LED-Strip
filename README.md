@@ -1,5 +1,6 @@
 # RPi-4-Controlled-LED-Strip
-temp description
+This was a project that I made to apply basic concepts that I had learned from courses. I was also inspired to work on this project, as I felt that it would combine hardware and software concepts together quite well. 
+
 
 ![image](https://user-images.githubusercontent.com/74937113/127747990-f5af8919-117f-45d0-a010-d92b1c852c86.png)
 ![image](https://user-images.githubusercontent.com/74937113/127747995-ac070880-3bbf-44c6-96cb-2ae1cb0dcf19.png)
